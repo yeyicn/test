@@ -1,2 +1,2 @@
 # test
-test gitub command
+test github command
